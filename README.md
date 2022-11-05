@@ -22,28 +22,28 @@ npm install -D nodemon
 ✔ Add Email Sending Options
 ✔ Added Flash messages for errors
 ✔ Passwords are stored in encrypted format
-
-NODEJS_AUTH
-├── controller
-| --- ├── accountRoutes.js
-| --- ├── googleAuth.js
-| --- ├── passportLocal.js
-| --- ├── routes.js
-| --- └── sendmail.js
-├── model
-│ --- ├── resetTokens.js
-│ --- └── user.js
-├── node_modules
-├── views
-│ --- ├── forgot-password.ejs
-│ --- ├── index.ejs
-│ --- ├── login.ejs
-│ --- ├── profile.ejs
-│ --- ├── signup.ejs
-│ --- └── success.ejs
-├── .gitignore
-├── .env
-├── index.js
-├── package.json
-├── package-lock.json
-└── README.md
+<br>
+NODEJS_AUTH<br>
+├── controller<br>
+| --- ├── accountRoutes.js<br>
+| --- ├── googleAuth.js<br>
+| --- ├── passportLocal.js<br>
+| --- ├── routes.js<br>
+| --- └── sendmail.js<br>
+├── model<br>
+│ --- ├── resetTokens.js<br>
+│ --- └── user.js<br>
+├── node_modules<br>
+├── views<br>
+│ --- ├── forgot-password.ejs<br>
+│ --- ├── index.ejs<br>
+│ --- ├── login.ejs<br>
+│ --- ├── profile.ejs<br>
+│ --- ├── signup.ejs<br>
+│ --- └── success.ejs<br>
+├── .gitignore<br>
+├── .env<br>
+├── index.js<br>
+├── package.json<br>
+├── package-lock.json<br>
+└── README.md<br>
